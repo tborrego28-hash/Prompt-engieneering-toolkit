@@ -6,8 +6,10 @@ Estandarizar la forma en que se estructuran las instrucciones para asegurar resp
 
 ## Contenido del Toolkit
 -**Estructuración de Roles:** Asignación de contextos y restricciones estrictas.
+
 -**Formato de Salida:** Pautas para forzar respuestas limpias sin texto adicional.
+
 -**Automatización de Tareas:** Prompts diseñados para procesamiento de textos y síntesis.
 
 ---
-*Desarrollado como kit de herramientas para la integración eficiente de IA.
+*Desarrollado como kit de herramientas para la integración eficiente de IA.*
